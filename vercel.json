@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "capstone-project-liart-one.vercel.app",
+      "destination": "https://capstone-project-liart-one.vercel.app/$1",
       "permanent": false
     }
   ]
