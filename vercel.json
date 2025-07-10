@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://capstone-project-liart-one.vercel.app/$1",
+      "destination": "https://capstone-project-liart-one.vercel.app/$1"
     }
   ]
 }
