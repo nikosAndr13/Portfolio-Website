@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/apply",
-      "destination": "https://airtable.com/appABC123/formXYZ456"
+      "destination": "https://airtable.com"
     }
   ]
 }
