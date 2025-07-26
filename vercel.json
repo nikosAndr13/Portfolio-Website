@@ -1,6 +1,10 @@
 {
   "rewrites": [
     {
+      "source": "/",
+      "destination": "capstone-project-liart-one.vercel.app"
+    }
+    {
       "source": "/apply",
       "destination": "https://airtable.com"
     }
