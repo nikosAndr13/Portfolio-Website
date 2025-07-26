@@ -1,13 +1,15 @@
+
 {
-  "rewrites": [
+  "redirects": [
     {
       "source": "/",
       "destination": "capstone-project-liart-one.vercel.app",
-      "permanent":true
+      "permanent": true
     },
     {
       "source": "/apply",
-      "destination": "https://airtable.com"
+      "destination": "https://airtable.com/",
+      "permanent": false
     }
   ]
 }
